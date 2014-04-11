@@ -1,9 +1,9 @@
 package de.ntcomputer.minecraft.controllablemobs.implementation;
 
-import net.minecraft.server.v1_7_R1.AttributeInstance;
-import net.minecraft.server.v1_7_R1.AttributeModifiable;
-import net.minecraft.server.v1_7_R1.EntityInsentient;
-import net.minecraft.server.v1_7_R1.IAttribute;
+import net.minecraft.server.v1_7_R2.AttributeInstance;
+import net.minecraft.server.v1_7_R2.AttributeModifiable;
+import net.minecraft.server.v1_7_R2.EntityInsentient;
+import net.minecraft.server.v1_7_R2.IAttribute;
 import de.ntcomputer.minecraft.controllablemobs.api.ControllableMobAttributes;
 import de.ntcomputer.minecraft.controllablemobs.api.attributes.Attribute;
 import de.ntcomputer.minecraft.controllablemobs.implementation.attributes.CraftAttribute;
